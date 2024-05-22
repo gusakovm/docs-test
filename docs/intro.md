@@ -7,6 +7,8 @@ slug: /
 
 It's time to launch your documentation! Welcome to Dhub's documentation template.
 
+asdasd123123
+
 ![](/img/rocket.webp)
 
 ## Get started
